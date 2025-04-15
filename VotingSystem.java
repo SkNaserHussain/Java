@@ -1,3 +1,5 @@
+//Created by Sk Naser Hussain on 15-04-25
+
 import java.util.Scanner;
 
 class Voter {
